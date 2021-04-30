@@ -1,0 +1,457 @@
+
+int led1 = A5;
+int led2 = D7; 
+
+
+void setup() {
+
+
+
+  pinMode(led1, OUTPUT);
+  pinMode(led2, OUTPUT);
+
+}
+
+
+void loop() {
+    
+  digitalWrite(led1, HIGH);//start dash_____________
+digitalWrite(led2, HIGH);
+
+
+delay(600);
+
+
+digitalWrite(led1, LOW);
+digitalWrite(led2, LOW);
+
+delay(600);//end dash_____________________
+
+digitalWrite(led1, HIGH);//start dot................
+digitalWrite(led2, HIGH);
+
+
+delay(200);
+
+
+digitalWrite(led1, LOW);
+digitalWrite(led2, LOW);
+
+
+delay(200);//end dot....................\
+
+digitalWrite(led1, HIGH);//start dash_____________
+digitalWrite(led2, HIGH);
+
+
+delay(600);
+
+
+digitalWrite(led1, LOW);
+digitalWrite(led2, LOW);
+
+delay(1000);//end dash_____________________
+
+digitalWrite(led1, HIGH);//start dash_____________
+digitalWrite(led2, HIGH);
+
+
+delay(600);
+
+
+digitalWrite(led1, LOW);
+digitalWrite(led2, LOW);
+
+delay(600);//end dash_____________________
+
+digitalWrite(led1, HIGH);//start dash_____________
+digitalWrite(led2, HIGH);
+
+
+delay(600);
+
+
+digitalWrite(led1, LOW);
+digitalWrite(led2, LOW);
+
+delay(600);//end dash_____________________
+
+digitalWrite(led1, HIGH);//start dash_____________
+digitalWrite(led2, HIGH);
+
+
+delay(600);
+
+
+digitalWrite(led1, LOW);
+digitalWrite(led2, LOW);
+
+delay(1000);//end dash_____________________
+
+digitalWrite(led1, HIGH);//start dot................
+digitalWrite(led2, HIGH);
+
+
+delay(200);
+
+
+digitalWrite(led1, LOW);
+digitalWrite(led2, LOW);
+
+
+delay(200);//end dot....................\
+
+digitalWrite(led1, HIGH);//start dash_____________
+digitalWrite(led2, HIGH);
+
+
+delay(600);
+
+
+digitalWrite(led1, LOW);
+digitalWrite(led2, LOW);
+
+delay(600);//end dash_____________________
+
+digitalWrite(led1, HIGH);//start dot................
+digitalWrite(led2, HIGH);
+
+
+delay(200);
+
+
+digitalWrite(led1, LOW);
+digitalWrite(led2, LOW);
+
+
+delay(200);//end dot....................\
+
+digitalWrite(led1, HIGH);//start dot................
+digitalWrite(led2, HIGH);
+
+
+delay(200);
+
+
+digitalWrite(led1, LOW);
+digitalWrite(led2, LOW);
+
+
+delay(1000);//end dot....................\
+
+digitalWrite(led1, HIGH);//start dot................
+digitalWrite(led2, HIGH);
+
+
+delay(200);
+
+
+digitalWrite(led1, LOW);
+digitalWrite(led2, LOW);
+
+
+delay(200);//end dot....................\
+
+digitalWrite(led1, HIGH);//start dash_____________
+digitalWrite(led2, HIGH);
+
+
+delay(600);
+
+
+digitalWrite(led1, LOW);
+digitalWrite(led2, LOW);
+
+delay(600);//end dash_____________________
+
+digitalWrite(led1, HIGH);//start dash_____________
+digitalWrite(led2, HIGH);
+
+
+delay(600);
+
+
+digitalWrite(led1, LOW);
+digitalWrite(led2, LOW);
+
+delay(600);//end dash_____________________
+
+digitalWrite(led1, HIGH);//start dot................
+digitalWrite(led2, HIGH);
+
+
+delay(200);
+
+
+digitalWrite(led1, LOW);
+digitalWrite(led2, LOW);
+
+
+delay(1000);//end dot....................\
+
+digitalWrite(led1, HIGH);//start dot................
+digitalWrite(led2, HIGH);
+
+
+delay(200);
+
+
+digitalWrite(led1, LOW);
+digitalWrite(led2, LOW);
+
+
+delay(200);//end dot....................\
+
+digitalWrite(led1, HIGH);//start dash_____________
+digitalWrite(led2, HIGH);
+
+
+delay(600);
+
+
+digitalWrite(led1, LOW);
+digitalWrite(led2, LOW);
+
+delay(1000);//end dash_____________________
+
+digitalWrite(led1, HIGH);//start dash_____________
+digitalWrite(led2, HIGH);
+
+
+delay(600);
+
+
+digitalWrite(led1, LOW);
+digitalWrite(led2, LOW);
+
+delay(600);//end dash_____________________
+
+digitalWrite(led1, HIGH);//start dot................
+digitalWrite(led2, HIGH);
+
+
+delay(200);
+
+
+digitalWrite(led1, LOW);
+digitalWrite(led2, LOW);
+
+
+delay(1000);//end dot....................\
+
+digitalWrite(led1, HIGH);//start dot................
+digitalWrite(led2, HIGH);
+
+
+delay(200);
+
+
+digitalWrite(led1, LOW);
+digitalWrite(led2, LOW);
+
+
+delay(200);//end dot....................\
+
+digitalWrite(led1, HIGH);//start dot................
+digitalWrite(led2, HIGH);
+
+
+delay(200);
+
+
+digitalWrite(led1, LOW);
+digitalWrite(led2, LOW);
+
+
+delay(200);//end dot....................\
+
+digitalWrite(led1, HIGH);//start dot................
+digitalWrite(led2, HIGH);
+
+
+delay(200);
+
+
+digitalWrite(led1, LOW);
+digitalWrite(led2, LOW);
+
+
+delay(200);//end dot....................\
+
+digitalWrite(led1, HIGH);//start dot................
+digitalWrite(led2, HIGH);
+
+
+delay(200);
+
+
+digitalWrite(led1, LOW);
+digitalWrite(led2, LOW);
+
+
+delay(1000);//end dot....................\
+
+digitalWrite(led1, HIGH);//start dot................
+digitalWrite(led2, HIGH);
+
+
+delay(200);
+
+
+digitalWrite(led1, LOW);
+digitalWrite(led2, LOW);
+
+
+delay(200);//end dot....................\
+
+digitalWrite(led1, HIGH);//start dash_____________
+digitalWrite(led2, HIGH);
+
+
+delay(600);
+
+
+digitalWrite(led1, LOW);
+digitalWrite(led2, LOW);
+
+delay(1000);//end dash_____________________
+
+digitalWrite(led1, HIGH);//start dash_____________
+digitalWrite(led2, HIGH);
+
+
+delay(600);
+
+
+digitalWrite(led1, LOW);
+digitalWrite(led2, LOW);
+
+delay(600);//end dash_____________________
+
+digitalWrite(led1, HIGH);//start dot................
+digitalWrite(led2, HIGH);
+
+
+delay(200);
+
+
+digitalWrite(led1, LOW);
+digitalWrite(led2, LOW);
+
+
+delay(200);//end dot....................\
+
+digitalWrite(led1, HIGH);//start dot................
+digitalWrite(led2, HIGH);
+
+
+delay(200);
+
+
+digitalWrite(led1, LOW);
+digitalWrite(led2, LOW);
+
+
+delay(200);//end dot....................\
+
+digitalWrite(led1, HIGH);//start dot................
+digitalWrite(led2, HIGH);
+
+
+delay(200);
+
+
+digitalWrite(led1, LOW);
+digitalWrite(led2, LOW);
+
+
+delay(1000);//end dot....................\
+
+digitalWrite(led1, HIGH);//start dash_____________
+digitalWrite(led2, HIGH);
+
+
+delay(600);
+
+
+digitalWrite(led1, LOW);
+digitalWrite(led2, LOW);
+
+delay(600);//end dash_____________________
+
+digitalWrite(led1, HIGH);//start dash_____________
+digitalWrite(led2, HIGH);
+
+
+delay(600);
+
+
+digitalWrite(led1, LOW);
+digitalWrite(led2, LOW);
+
+delay(600);//end dash_____________________
+
+digitalWrite(led1, HIGH);//start dash_____________
+digitalWrite(led2, HIGH);
+
+
+delay(600);
+
+
+digitalWrite(led1, LOW);
+digitalWrite(led2, LOW);
+
+delay(1000);//end dash_____________________
+
+digitalWrite(led1, HIGH);//start dash_____________
+digitalWrite(led2, HIGH);
+
+
+delay(600);
+
+
+digitalWrite(led1, LOW);
+digitalWrite(led2, LOW);
+
+delay(1000);//end dash_____________________
+
+digitalWrite(led1, HIGH);//start dot................
+digitalWrite(led2, HIGH);
+
+
+delay(200);
+
+
+digitalWrite(led1, LOW);
+digitalWrite(led2, LOW);
+
+
+delay(200);//end dot....................\
+
+digitalWrite(led1, HIGH);//start dash_____________
+digitalWrite(led2, HIGH);
+
+
+delay(600);
+
+
+digitalWrite(led1, LOW);
+digitalWrite(led2, LOW);
+
+delay(600);//end dash_____________________
+
+digitalWrite(led1, HIGH);//start dot................
+digitalWrite(led2, HIGH);
+
+
+delay(200);
+
+
+digitalWrite(led1, LOW);
+digitalWrite(led2, LOW);
+
+
+delay(5000);//end dot....................\
+  
+}
+
